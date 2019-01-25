@@ -1,4 +1,4 @@
-# bmap 更新日志
+# Bmap 更新日志
 
 下载地址：https://www.coolapk.com/apk/me.gfuil.bmap
 
