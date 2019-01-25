@@ -2,7 +2,7 @@
 
 下载地址：https://www.coolapk.com/apk/me.gfuil.bmap
 
-历史版本：https://pan.baidu.com/s/1o79BS8M#list/path=%2Fbmap
+历史版本：https://pan.baidu.com/s/1HHzoSTFxSZZ6oXo8T-Ch1g#list/path=%2Fbmap
 
 
 ## 3.9    2018-8-8
