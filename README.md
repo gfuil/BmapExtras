@@ -5,7 +5,7 @@
 历史版本：https://pan.baidu.com/s/1HHzoSTFxSZZ6oXo8T-Ch1g#list/path=%2Fbmap
 
 
-## 6.3.RC1
+## 6.3.RC2
 
 1.升级百度、高德sdk
 
@@ -16,6 +16,8 @@
 4.网页地图多源
 
 5.优化体验、修复部分bug
+
+6.解决百度导航崩溃问题
 
 QQ交流群:661770465
 
