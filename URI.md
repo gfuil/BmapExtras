@@ -1,6 +1,6 @@
 # 调起Bmap说明
 
-通过geo-uri方式，坐标系为国测局坐标(GCJ02)
+通过geo-uri方式，坐标为国测局坐标系(GCJ02)
 
 geo:latitude,longitude?q=place_name
 
