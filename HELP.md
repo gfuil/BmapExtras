@@ -87,4 +87,4 @@ MIUI语音识别 https://www.coolapk.com/apk/com.yaxisvip.miui.speechcloud
 
 ## 三方APP调用地图说明
 
-一些APP可直接被调起，微信ＱＱ可利用其街景，再从菜单里选择“使用浏览器打开”，选择Bmap即可
+一些APP可直接被调起，微信ＱＱ可利用其街景，再从菜单里选择“使用浏览器打开”，选择Bmap即可,或是在工具箱中下在伪装百度或高德地图的插件，当然不建议这么做
