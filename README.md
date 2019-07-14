@@ -5,6 +5,11 @@
 历史版本：https://pan.baidu.com/s/1HHzoSTFxSZZ6oXo8T-Ch1g#list/path=%2Fbmap
 
 
+## 6.3.7
+
+1.修复高德驾驶模式不算路的问题
+
+
 ## 6.3.6
 
 1.地铁图新增乌鲁木齐、温州、济南、兰州
