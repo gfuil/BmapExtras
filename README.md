@@ -5,6 +5,13 @@
 历史版本：https://pan.baidu.com/s/1HHzoSTFxSZZ6oXo8T-Ch1g#list/path=%2Fbmap
 
 
+## 6.3.9
+
+1.修复shortcut搜索及收藏夹无法跳转问题，由于最多只能放五个快捷方式，网页地图替换成地铁图
+
+2.修复按home键后外部传来的地点无效问题
+
+
 ## 6.3.7
 
 1.修复高德驾驶模式不算路的问题
