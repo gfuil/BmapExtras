@@ -1,6 +1,6 @@
 # Bmap 更新日志
 
-官方网站：http://bmap6.cn/index.html
+官方网站：http://bmap6.cn
 
 下载地址：https://www.coolapk.com/apk/me.gfuil.bmap
 
