@@ -1,5 +1,7 @@
 # Bmap 更新日志
 
+官方网站：http://bmap6.cn/index.html
+
 下载地址：https://www.coolapk.com/apk/me.gfuil.bmap
 
 历史版本：https://pan.baidu.com/s/1HHzoSTFxSZZ6oXo8T-Ch1g#list/path=%2Fbmap

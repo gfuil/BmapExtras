@@ -88,3 +88,19 @@ MIUI语音识别 https://www.coolapk.com/apk/com.yaxisvip.miui.speechcloud
 ## 三方APP调用地图说明
 
 一些APP可直接被调起，微信ＱＱ可利用其街景，再从菜单里选择“使用浏览器打开”，选择Bmap即可,或是在工具箱中下在伪装百度或高德地图的插件，当然不建议这么做
+
+
+## 调起Bmap协议
+
+通过geo-uri方式，坐标为国测局坐标系(GCJ02)
+
+geo:latitude,longitude?q=place_name
+
+
+### 调用示例：
+
+Uri uri = Uri.parse("geo:39.903740,116.397827?q=天安门广场");
+
+Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+
+startActivity(intent);
