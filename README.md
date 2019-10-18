@@ -6,6 +6,8 @@
 
 历史版本：https://pan.baidu.com/s/1HHzoSTFxSZZ6oXo8T-Ch1g#list/path=%2Fbmap
 
+伪装地图开源地址（仅限学习交流使用）：https://github.com/gfuil/PretendMap
+
 
 ## 6.6
 
